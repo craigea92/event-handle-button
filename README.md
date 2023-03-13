@@ -19,3 +19,4 @@ npm start
 ```
 
 ## Screenshot
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/82875984/224808713-1ad2986f-4e25-4902-91fe-e5692f134dc2.png">
