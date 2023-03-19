@@ -1,4 +1,4 @@
-# event-handle-button
+# Event Handle Button
 
 ## Project Description
 
@@ -19,7 +19,16 @@ npm start
 ```
 
 ## Screenshot
+
 <img width="1290" alt="image" src="https://user-images.githubusercontent.com/82875984/224808713-1ad2986f-4e25-4902-91fe-e5692f134dc2.png">
 
 ## Hooks vs Classes
+
 The major difference between Hooks and class-based state is that hooks are used inside of the functional component. One thing to keep in mind is that never call hooks inside of any logic, it should always be on the top level!
+
+## React Hooks
+
+- Used in functional components in React
+- Does not require the declaraction of any kind of constructor
+- there is no need of using this keyword in state declaration or modification
+- Easier to use because of the useState() functionality
