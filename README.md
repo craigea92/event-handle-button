@@ -32,3 +32,10 @@ The major difference between Hooks and class-based state is that hooks are used 
 - Does not require the declaraction of any kind of constructor
 - there is no need of using this keyword in state declaration or modification
 - Easier to use because of the useState() functionality
+
+## Classes
+
+- Used in class based components in React
+- Declaration of constructor has to be made inside of the class component
+- this keyword is used in state declaraction i.e. this.state and in modification this.setState()
+- No specify function that helps us access the state and its corresponding setState variable
