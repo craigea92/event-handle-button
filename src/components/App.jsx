@@ -9,6 +9,21 @@ function App() {
 
 function handleChange(event) {
   const newValue = event.target.value;
+  const inputName = event.target.name;
+
+  setFullName(prevValue => {
+    if (inputName === "fName") {
+      return {
+        fName: newValue,
+        lName: prevValue.lName
+      }
+    } else if (inputName === "lName") {
+      return {
+        fName: prevValue.fName,
+        lName: newValue
+      }
+    }
+  })
 }
 
 
