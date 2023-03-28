@@ -34,12 +34,12 @@ function handleChange(event) {
         <input name="fName" 
         onChange={handleChange} 
         placeholder="First Name" 
-        // value={fullName.fName} 
+        value={fullName.fName} 
         />
         <input name="lName" 
         onChange={handleChange} 
         placeholder="Last Name" 
-        // value={fullName.lName}
+        value={fullName.lName}
         />
         <button>Submit</button>
       </form>
