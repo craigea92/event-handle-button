@@ -1,6 +1,11 @@
 # Event Handle Button
 
 ## Project Description
+I embarked on this project with the aim of honing my skills in event handling and leveraging the powerful React developer tools. The resulting app is a simple yet effective implementation, featuring fields for first name, last name, and email. Upon completion of each field, the message displayed at the top of the screen is dynamically updated with the relevant information.
+
+I was able to complete the project without encountering any notable challenges. Nonetheless, the opportunity to solidify and refine my existing skill set was highly beneficial and greatly appreciated.
+
+At this time, I have no plans to make any future updates or modifications to this project, as I consider it to be complete.
 
 ## Tech Stack
 
