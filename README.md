@@ -25,7 +25,7 @@ npm start
 
 ## Screenshot
 
-<img width="1290" alt="image" src="https://user-images.githubusercontent.com/82875984/224808713-1ad2986f-4e25-4902-91fe-e5692f134dc2.png">
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/82875984/233604450-1d5e91ac-ead7-4cab-971a-88f108f58c94.png">
 
 ## Hooks vs Classes
 
